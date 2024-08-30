@@ -4,6 +4,10 @@
 #include <windows.h>
 #include <locale.h>
 
+// utf-8
+// cp1256
+// windows1252
+
 void mostrarMenu(){
     printf("\nPROGRAMA EXEMPLO PROFESSOR");
     printf("\n1 - Recarrega menu");
